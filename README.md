@@ -1,0 +1,1 @@
+# waw-stock-map-script-placer
