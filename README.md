@@ -22,8 +22,8 @@ If extracting them yourself:
 # Usage
 
 - Drop base_files folder into _internal folder  
-    The base_files dir will automatically be created when you try to build a mod and it detects the base_files dir is missing.
-    So.. if you see a dialog pointing this out, then you've skipped a step but not worry, just drop the subdirs from the extracted base_files.zip into the _internal/base_files folder.
+    The base_files dir will automatically be created when you try to build a mod if it detects the base_files dir is missing.
+    So.. if you see a dialog pointing this out, then you've skipped a step but don't worry, just drop the subdirs from the base_files dir into the _internal/base_files dir.
 
 - Go into _internal folder, then into json folder, open local.json and replace the directory with your own waw root directory.
 - Run waw-stock-map-script-placer v1.2.1.exe
