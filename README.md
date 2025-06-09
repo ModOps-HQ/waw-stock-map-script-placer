@@ -13,17 +13,17 @@ If extracting them yourself:
 
 # Installation
 
-- Download waw-stock-map-script-placer v1.2.1.zip
-- Extract waw-stock-map-script-placer v1.2.1.zip
+- Download exe.v1.2.1.zip
+- Extract exe.v1.2.1.zip
 
-- Download base_files.zip
-- Extract base_files.zip
+- Download base.files.v1.2.1.zip
+- Extract base.files.v1.2.1.zip
+
+# Usage
 
 - Drop base_files folder into _internal folder
     The base_files dir will automatically be created when you try to build a mod and it detects the base_files dir is missing.
     So.. if you see a dialog pointing this out, then you've skipped a step but not worry, just drop the subdirs from the extracted base_files.zip into the _internal/base_files folder.
-
-# Usage
 
 - Go into _internal folder, then into json folder, open local.json and replace the directory with your own waw root directory.
 - Run waw-stock-map-script-placer v1.2.1.exe
@@ -36,6 +36,11 @@ Decide whether you want (all of these options are optional):
 - Automatically have the map run after mod has been created.
 
 Select one of the maps in the mode-specific sections.
+
+# Optional
+
+- Download source.v1.2.1.zip
+- Extract source.v1.2.1.zip
 
 # License
 
