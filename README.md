@@ -40,7 +40,6 @@ Select one of the maps in the mode-specific sections.
 # Optional
 
 - Download source.v1.2.1.zip
-- Extract source.v1.2.1.zip
 
 # License
 
