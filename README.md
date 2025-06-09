@@ -43,7 +43,7 @@ GNU Lesser General Public License Version 3
 
 # Screenshot
 
-![alt text](docs/screenshot1.png)
+![alt text](screenshot1.png)
 
 # Video
 
