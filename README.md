@@ -21,7 +21,7 @@ If extracting them yourself:
 
 # Usage
 
-- Drop base_files folder into _internal folder
+- Drop base_files folder into _internal folder  
     The base_files dir will automatically be created when you try to build a mod and it detects the base_files dir is missing.
     So.. if you see a dialog pointing this out, then you've skipped a step but not worry, just drop the subdirs from the extracted base_files.zip into the _internal/base_files folder.
 
