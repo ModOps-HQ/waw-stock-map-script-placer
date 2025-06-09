@@ -55,4 +55,4 @@ Phil81334
 
 # Socials
 
-[ModOps](https://modopshq.com) || [Discord](https://discord.gg/SEkBECkt2Q) || [YouTube](https://www.youtube.com/@modopshq)
+[ModOps](https://modopshq.com) || [Discord](https://discord.gg/SEkBECkt2Q) || [YouTube](https://www.youtube.com/playlist?list=PLazUALw7tGzA_2EAfLJZL-oX6R3vdvCh-)
